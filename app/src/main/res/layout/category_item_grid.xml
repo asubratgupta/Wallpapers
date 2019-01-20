@@ -2,7 +2,6 @@
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/rootlayout"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="@color/background_bg"

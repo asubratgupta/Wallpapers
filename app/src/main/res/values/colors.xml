@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#37a5af</color>
-    <color name="colorPrimaryDark">#4C868F</color>
     <color name="colorAccent">#FF4081</color>
 
 
@@ -17,9 +15,6 @@
     <color name="primary_text">#212121</color>
     <color name="primary_color">#212121</color>
 
-
-    <color name="feed_item_bg">#ffffff</color>
-    <color name="feed_item_border">#c2c3c8</color>
 
     <color name="abcedf">#abcdef</color>
 </resources>

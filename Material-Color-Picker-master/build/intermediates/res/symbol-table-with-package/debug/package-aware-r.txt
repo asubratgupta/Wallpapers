@@ -462,10 +462,7 @@ drawable abc_textfield_default_mtrl_alpha
 drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
-drawable clicked_gray
-drawable dialog_button
 drawable notification_template_icon_bg
-drawable transparent
 id action0
 id action_bar
 id action_bar_activity_content
@@ -517,7 +514,6 @@ id expanded_menu
 id fill
 id fill_horizontal
 id fill_vertical
-id grid
 id home
 id homeAsUp
 id horizontal
@@ -646,7 +642,6 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string status_bar_notification_info_overflow
-string white
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

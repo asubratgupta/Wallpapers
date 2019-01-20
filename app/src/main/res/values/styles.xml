@@ -56,16 +56,7 @@
         <item name="android:textColor">@color/primary_color</item>
     </style>
 
-    <style name="NavigationDrawer" parent="NavigationDrawer" >
-        <item name="android:textStyle">bold</item>
-        <!--<item name="android:textColorPrimary">@color/nav_text_color</item>-->
-        <!--<item name="android:background">@color/nav_bg</item>-->
-    </style>
-
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
-    </style>
-
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
     </style>
 
     <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
