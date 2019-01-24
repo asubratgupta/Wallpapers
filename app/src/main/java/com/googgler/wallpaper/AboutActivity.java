@@ -71,13 +71,6 @@ public class AboutActivity extends AppCompatActivity {
         ll_contact = (LinearLayout)findViewById(R.id.ll_contact);
         ll_company = (LinearLayout)findViewById(R.id.ll_company);
 
-//		textView_appname.setText(getResources().getString(R.string.app_name));
-//        textView_email.setText(getResources().getString(R.string.aboutus_email));
-//        ll_email.setVisibility(View.VISIBLE);
-////        textView_website.setText(getResources().getString(R.string.aboutus_website));
-//        textView_desc.setText(getResources().getString(R.string.aboutus_desc));
-//		imageView_logo.setImageDrawable(getResources().getDrawable(R.drawable.about_logo));
-
         if(Constant.itemAbout == null) {
             if (JsonUtils.isNetworkAvailable(AboutActivity.this)) {
                 new MyTask().execute(Constant.URL_ABOUT_US);
