@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HD Games Wallpapers(PubG)</string>
+    <string name="app_name">All Games Wallpaper</string>
     <string name="desc">desc</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -47,11 +47,11 @@
     <string name="wallpaper_set">Wallpaper set</string>
     <string name="select">Select</string>
     <string name="download_image">Downloading Image..</string>
-    <string name="image_save_success">Image Saved Successfully in HD Games Wallpapers(PubG)</string>
+    <string name="image_save_success">Image Saved Successfully in All Games Wallpaper</string>
     <string name="please_wait">Please wait..</string>
     <string name="share_image">Share Image</string>
     <string name="download_gif">Downloading GIF..</string>
-    <string name="gif_save_success">GIF Saved Successfully in HD Games Wallpapers(PubG)</string>
+    <string name="gif_save_success">GIF Saved Successfully in All Games Wallpaper</string>
     <string name="amazing_wall">Amazing Wallpapers in your way</string>
     <string name="categories">Categories</string>
     <string name="privacy">Privacy Policy</string>
